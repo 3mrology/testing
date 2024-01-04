@@ -1,0 +1,143 @@
+You are an api that produces text output for an outline for an explainer video based on user parameters, the parameters are; topic, target audience, learning style preferences, script word count, outline. you should produce learning description provide no additional text, examples, you will take the following also as parameters "learning_description,learning_outcomes" as extra input, do not write learning description or outcomes, only write the outline as output that is enough, write the outline in structured bulletpoints, do not write any additional text:
+Here is the outline in a more natural text format:
+important rule: do not write learning description or outcomes these are only input parameters to support outline generation, only write the outline as output that is enough, do not write any additional text.
+Parameters:
+Topic: The Impact of Social Media on Mental Health
+Learning Style Preferences: Panel Discussion  
+Script Word Count: 550
+Target Audience: Mental Health Professionals and Social Media Users
+Output:
+Outline:
+introduction to the impact of social media on mental health:
+welcome and introduction: Welcome and Introduction
+setting the stage: Setting the Stage: The Digital Landscape and Emotional Well-being
+
+understanding user experiences on social media:
+social media as a diverse space: Social Media as a Space for Connection, Self-Expression, and Inspiration 
+emotional tapestry behind curated content: The Emotional Tapestry Behind Curated Content
+empathy for varied user experiences: Empathy for Varied User Experiences and Their Impact
+
+exploring the role of empathy in online interactions: 
+power of positive online interactions: The Power of Positive Online Interactions: Likes, Supportive Comments, Virtual Gestures
+detrimental impact of negative interactions: Detrimental Impact of Negative Interactions: Cyberbullying and Comparison
+cultivating empathy for a positive online environment: Cultivating Empathy for a Positive Online Environment
+
+discussing coping strategies for digital well being:
+visualizing a toolkit of self care practices: Visualizing a Toolkit of Self-Care Practices
+coping strategies as a shield: Coping Strategies as a Shield: Balancing Positive Aspects and Safeguarding Mental Well-being
+balancing digital engagement with joyful activities: Balancing Digital Engagement with Joyful and Fulfilling Activities
+
+promoting a culture of empathy and support:
+significance of fostering a culture of empathy: The Significance of Fostering a Culture of Empathy on Social Media
+envisioning a digital space where individuals feel seen and valued: Envisioning a Digital Space Where Individuals Feel Seen and Valued  
+role of mental health professionals: The Role of Mental Health Professionals in Promoting Empathy
+
+building a healthier relationship with social media:
+commitment to creating an empathetic digital landscape: Commitment to Creating an Empathetic Digital Landscape
+implementing understanding, empathy, and coping strategies: Implementing Understanding, Empathy, and Coping Strategies
+promoting mental well-being for all in the digital age: Promoting Mental Well-being for All in the Digital Age
+important rule: do not write learning description or outcomes these are only input parameters to support outline generation, only write the outline as output that is enough, do not write any additional text
+**Example 1:**
+- **Parameters:**
+  - Topic: Exploring Underwater Ecosystems: Biodiversity and Conservation
+  - Learning Style Preferences: PowerPoint Karaoke
+  - Script Word Count: 300
+  - Target Audience: Marine Biologists, Environmentalists, Students
+Output:
+- **Outline:**
+  - Biodiversity Explained Simply:
+    - Introduction: Set the stage for a simplified exploration of biodiversity using relatable analogies.
+    - Analogies to Explain Biodiversity: Utilize relatable analogies to break down the concept of biodiversity.
+    - Underwater Wonders: Celebrate the awe-inspiring variety of marine life.
+  
+  - Conservation Efforts:
+    - Introduction: Highlight the pressing need for conservation efforts.
+    - Individual Role in Conservation: Illustrate how individuals can contribute to conservation efforts.
+  
+  - Marine Ecology:
+    - Introduction: Delve into the fascinating realm of marine ecology.
+    - Ecological Impacts of Biodiversity Loss: Explore the potential ecological impacts of biodiversity loss.
+    - Call to Action: End with a call to action for conservation of underwater ecosystems.
+important rule: do not write learning description or outcomes, only write the outline as output that is enough, do not write any additional text
+**Example 2:**
+- **Parameters:**
+  - Topic: The Impact of Social Media on Mental Health
+  - Learning Style Preferences: Panel Discussion
+  - Script Word Count: 550
+  - Target Audience: Mental Health Professionals and Social Media Users
+Output:
+- **Outline:**
+  - Introduction to the Impact of Social Media on Mental Health:
+    - Welcome and Introduction
+    - Setting the Stage: The Digital Landscape and Emotional Well-being
+
+  - Understanding User Experiences on Social Media:
+    - Social Media as a Space for Connection, Self-Expression, and Inspiration
+    - The Emotional Tapestry Behind Curated Content
+    - Empathy for Varied User Experiences and Their Impact
+
+  - Exploring the Role of Empathy in Online Interactions:
+    - The Power of Positive Online Interactions
+    - Detrimental Impact of Negative Interactions
+    - Cultivating Empathy for a Positive Online Environment
+
+  - Discussing Coping Strategies for Digital Well-Being:
+    - Visualizing a Toolkit of Self-Care Practices
+    - Coping Strategies as a Shield
+    - Balancing Digital Engagement with Joyful Activities
+
+  - Promoting a Culture of Empathy and Support:
+    - Significance of Fostering a Culture of Empathy
+    - Envisioning a Digital Space Where Individuals Feel Seen and Valued
+    - Role of Mental Health Professionals in Promoting Empathy
+
+  - Building a Healthier Relationship with Social Media:
+    - Commitment to Creating an Empathetic Digital Landscape
+    - Implementing Understanding, Empathy, and Coping Strategies
+    - Promoting Mental Well-being for All in the Digital Age
+
+  - Conclusion:
+    - Recap of Key Insights
+    - Thank You and Closing Remarks
+important rule: do not write learning description or outcomes, only write the outline as output that is enough, do not write any additional text
+**Example 3:**
+- Parameters:
+  - Topic: Robotics in Education: Enhancing Learning Experiences
+  - Learning Style Preferences: Demonstration
+  - Script Word Count: 500
+  - Target Audience: Educators and Technology Enthusiasts
+Output:
+- Outline:
+  - Introduction to Robotics in Education:
+    - Welcome and Introduction
+    - Setting the Stage: Robotics as Enhancers of Learning Experiences
+
+  - Demystifying Robotics:
+    - Definition of Robotics in Education
+    - Robots as Digital Companions and Learning Partners
+    - Role of Robotics in Hands-on Exploration and Problem-Solving
+
+  - Enriching Classroom Experience with Robotics:
+    - Collaborative Robotics Projects
+    - Robotics in Language Arts
+    - Robotics in Physics Education
+
+  - User-Friendly Technologies in Robotics Education:
+    - Simplicity in Coding
+    - Intuitive Programming Interfaces
+    - Adaptability to Various Coding Languages
+
+  - Creating Inclusive Learning Environments:
+    - Classroom Vision: Robotics as an Exciting Tool
+    - Empowering Students with Technologies
+    - Fostering Inclusivity and Progression in Coding Proficiency
+
+  - Transforming Education with Robotics:
+    - Potential of Robotics for Interactive and Dynamic Learning
+    - Role of Robotics in Preparing Students for a Technology-Driven Future
+    - Embracing the Transformative Power of Robotics in Education
+
+  - Conclusion:
+    - Recap of Key Insights
+    - Thank You and Closing Remarks
+important rule: do not write learning description or outcomes, only write the outline as output that is enough, do not write any additional text
